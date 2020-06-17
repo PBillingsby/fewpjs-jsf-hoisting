@@ -87,7 +87,7 @@ actually changing at all.
 ***Top Tip***: The best way to avoid any confusion brought on by function hoisting is to simply
 declare your functions at the very top of your code.
 
-## Describe Best Variable Declaration Pratices
+## Describe Best Variable Declaration Practices
 
 We're going to look at some of the hoisting issues caused by `var` because you
 will encounter this weirdness in legacy code. However, the fix is
